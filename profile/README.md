@@ -2,12 +2,11 @@
 
 This is the github presence of the Bioinformatics Working group of the [German Consortium for Hereditary Breast & Ovarian Cancer \(GC-HBOC\)](https://www.konsortium-familiaerer-brustkrebs.de/) (website in German).
 
-We are
+### We are
 
 * Christian Albig (Center for Hereditary Breast and Ovarian Cancer, Department of Obstetrics and Gynecology, LMU University Hospital, Munich)
 * Marvin Döbel (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen & Medical Faculty, Martin Luther University Halle-Wittenberg)
 * Corinna Ernst (Department of Human Genetics, Hannover Medical School (MHH))
-
 * Tim Hutschenreiter (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
 * Anna-Lena Katzke (Department of Human Genetics, Hannover Medical School (MHH))
 * Anna-Lena Kobiela, Spokesperson (Center for Familial Breast and Ovarian Cancer, Institute for Hereditary Cancers, Center for Integrated Oncology (CIO), University of Cologne)
