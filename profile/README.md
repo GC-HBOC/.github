@@ -6,10 +6,11 @@ This is the github presence of the Bioinformatics Working group of the [German C
 
 * Christian Albig (Center for Hereditary Breast and Ovarian Cancer, Department of Obstetrics and Gynecology, LMU University Hospital, Munich)
 * Marvin Döbel (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen & Medical Faculty, Martin Luther University Halle-Wittenberg)
-* Corinna Ernst (Department of Human Genetics, Hannover Medical School (MHH))
+* [Corinna Ernst](https://orcid.org/0000-0001-7756-8815), Hannover Medical School (MHH)
+* Axel Fischer, Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin
 * Tim Hutschenreiter (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
-* Anna-Lena Katzke (Department of Human Genetics, Hannover Medical School (MHH))
-* Anna-Lena Kobiela, Spokesperson (Center for Familial Breast and Ovarian Cancer, Institute for Hereditary Cancers, Center for Integrated Oncology (CIO), University of Cologne)
+* Anna-Lena Katzke, Spokesperson (Department of Human Genetics, Hannover Medical School (MHH))
+* Anna-Lena Kobiela (Center for Familial Breast and Ovarian Cancer, Institute for Hereditary Cancers, Center for Integrated Oncology (CIO), University of Cologne)
 * Oliver Kutz (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden)
 * Melanie Lindner (Institute of Human Genetics, University of Münster)
 * Christoph Meier (Institute of Human Genetics, University of Regensburg)
