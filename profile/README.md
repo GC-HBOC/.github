@@ -9,7 +9,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Marvin Döbel (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen & Medical Faculty, Martin Luther University Halle-Wittenberg, Halle)
 * Stephan Drukewitz (Institute of Human Genetics, University of Leipzig Medical Center, Leipzig)
 * Christoph Engel (Institute for Medical Informatics, Statistics, and Epidemiology, University of Leipzig, Leipzig)
-* [Corinna Ernst](https://orcid.org/0000-0001-7756-8815), Hannover Medical School (MHH)
+* [Corinna Ernst](https://orcid.org/0000-0001-7756-8815)  (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
 * [Axel Fischer](https://orcid.org/0000-0001-6130-6984), Bioinformatics & Data Science, Labor Berlin – Charité Vivantes GmbH, Berlin
 * Johannes Helmuth [ORCID](https://orcid.org/0000-0002-5380-4577)  Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin)
 * Michael Forster (Department of Gynecology and Obstetrics, Institute of Clinical Chemistry Institute of Clinical Molecular Biology, University Hospital Schleswig-Holstein, Campus Kiel, Kiel)
