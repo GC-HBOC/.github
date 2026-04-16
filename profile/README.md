@@ -16,7 +16,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Peter Frommolt (Institute of Human Genetics, University Medical Center Hamburg-Eppendorf, Hamburg)
 * Karl Hackmann (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
 * Ellen Honisch (Department of Gynaecology and Obstetrics, University Hospital Düsseldorf, Heinrich-Heine University Düsseldorf, Düsseldorf)
-* Tim Hutschenreiter (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
+* Tim Hutschenreiter (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TUD Dresden University of Technology and Faculty of Medicine of TUD Dresden University of Technology, Dresden, Germany; ERN GENTURIS, Hereditary Cancer Syndrome Center Dresden, Germany; National Center for Tumor Diseases (NCT), NCT/UCC Dresden, a partnership between DKFZ, Faculty of Medicine and University Hospital Carl Gustav Carus,  TUD Dresden University of Technology, and Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Germany; German Cancer Consortium (DKTK), partner site: Dresden, and German Cancer Research Center (DKFZ), Heidelberg, Germany)
 * Anna-Lena Katzke, Spokesperson (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
 * [Anna-Lena Kobiela](https://orcid.org/0009-0000-6391-1280), Center for Familial Breast and Ovarian Cancer, Institute for Hereditary Cancers, Center for Integrated Oncology (CIO), University of Cologne, Cologne
 * Zarah Kowalzyk (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
