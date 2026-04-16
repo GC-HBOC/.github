@@ -29,7 +29,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Julia Ritter (Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin)
 * [Christian Ruckert](https://orcid.org/0000-0001-9915-1287) (Department of Medical Genetics, Centre of Medical Genetics, University and University Hospital Münster, Münster, Germany)
 * Gunnar Schmidt (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
-* Benedikt Schnur (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
+* [Benedikt Schnur](https://orcid.org/0000-0002-1977-7878) (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
 * Dariush Skowronek (Department of Human Genetics, University Medicine Greifswald & Interfaculty Institute of Genetics and Functional Genomics, University of Greifswald, Greifswald)
 * [Marc Sturm](https://orcid.org/0000-0002-6552-8362) (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen, Tübingen)
 * Katharina Thiedig (Division of Gynaecology and Obstetrics, Klinikum rechts der Isar der Technischen Universität München, München)
