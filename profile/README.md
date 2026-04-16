@@ -11,10 +11,10 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Christoph Engel (Institute for Medical Informatics, Statistics, and Epidemiology, University of Leipzig, Leipzig)
 * [Corinna Ernst](https://orcid.org/0000-0001-7756-8815), Hannover Medical School (MHH)
 * [Axel Fischer](https://orcid.org/0000-0001-6130-6984), Bioinformatics & Data Science, Labor Berlin – Charité Vivantes GmbH, Berlin
+* Johannes Helmuth [ORCID](https://orcid.org/0000-0002-5380-4577)  Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin)
 * Michael Forster (Department of Gynecology and Obstetrics, Institute of Clinical Chemistry Institute of Clinical Molecular Biology, University Hospital Schleswig-Holstein, Campus Kiel, Kiel)
 * Peter Frommolt (Institute of Human Genetics, University Medical Center Hamburg-Eppendorf, Hamburg)
 * Karl Hackmann (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
-* Johannes Helmuth (Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin)
 * Ellen Honisch (Department of Gynaecology and Obstetrics, University Hospital Düsseldorf, Heinrich-Heine University Düsseldorf, Düsseldorf)
 * Tim Hutschenreiter (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
 * Anna-Lena Katzke, Spokesperson (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
