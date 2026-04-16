@@ -31,7 +31,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Gunnar Schmidt (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
 * Benedikt Schnur (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
 * Dariush Skowronek (Department of Human Genetics, University Medicine Greifswald & Interfaculty Institute of Genetics and Functional Genomics, University of Greifswald, Greifswald)
-* Marc Sturm (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen, Tübingen)
+* [Marc Sturm](https://orcid.org/0000-0002-6552-8362) (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen, Tübingen)
 * Katharina Thiedig (Division of Gynaecology and Obstetrics, Klinikum rechts der Isar der Technischen Universität München, München)
 * Steffen Uebe (Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität, Erlangen-Nürnberg)
 * Shan Wang-Gohrken (Department of Gynaecology and Obstetrics, University Hospital, Ulm)
