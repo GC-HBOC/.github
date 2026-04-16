@@ -36,4 +36,4 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Steffen Uebe (Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität, Erlangen-Nürnberg)
 * Shan Wang-Gohrken (Department of Gynaecology and Obstetrics, University Hospital, Ulm)
 * Dennis Witt (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen, Tübingen)
-* Andreas Zimmer(Institute for Human Genetics, Medical Center University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg)
+* [Andreas Zimmer](https://orcid.org/0000-0002-5595-9388), Institute for Human Genetics, Medical Center University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg
