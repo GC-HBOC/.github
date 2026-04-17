@@ -25,7 +25,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 * Christoph Meier (Institute of Human Genetics, University of Regensburg, Regensburg)
 * Rudel Christian Nkouamedjo Fankep, Co-spokesperson (Center for Familial Breast and Ovarian Cancer, Institute for Hereditary Cancers, Center for Integrated Oncology (CIO), University of Cologne, Cologne)
 * Maximilian Radtke (Institute of Human Genetics, University of Leipzig Medical Center, Leipzig)
-* Juliane Ramser (Department of Gynaecology and Obstetrics, Klinikum rechts der Isar der Technischen Universität München, Munich)
+* Juliane Ramser (Department of Gynecology and Center for Hereditary Breast and Ovarian Cancer, Technical University of Munich (TUM), School of Medicine and Health, Klinikum rechts der Isar, TUM University Hospital, Munich, Germany).
 * Julia Ritter (Department of Human Genetics, Labor Berlin – Charité Vivantes GmbH, Berlin)
 * [Christian Ruckert](https://orcid.org/0000-0001-9915-1287) (Department of Medical Genetics, Centre of Medical Genetics, University and University Hospital Münster, Münster, Germany)
 * Gunnar Schmidt (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
