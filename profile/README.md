@@ -6,7 +6,7 @@ This is the github presence of the Bioinformatics Working group of the [German C
 
 * Christian Albig (Center for Hereditary Breast and Ovarian Cancer, Department of Obstetrics and Gynecology, LMU University Hospital, Munich)
 * Norbert Arnold (Department of Gynecology and Obstetrics and Institute of Clinical Molecular Biology, University Hospital of Schleswig-Holstein, Campus Kiel, Christian-Albrechts University Kiel, Kiel)
-* Marvin Döbel (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen & Medical Faculty, Martin Luther University Halle-Wittenberg, Halle)
+* [Marvin Doebel](https://orcid.org/0000-0002-8024-2178) (Institute of Medical Genetics and Applied Genomics, University Hospital Tübingen & Institute for Molecular Medicine, Martin Luther University Halle-Wittenberg, Halle)
 * Stephan Drukewitz (Institute of Human Genetics, University of Leipzig Medical Center, Leipzig)
 * Christoph Engel (Institute for Medical Informatics, Statistics, and Epidemiology, University of Leipzig, Leipzig)
 * [Corinna Ernst](https://orcid.org/0000-0001-7756-8815)  (Department of Human Genetics, Hannover Medical School (MHH), Hannover)
