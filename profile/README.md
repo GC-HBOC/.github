@@ -32,8 +32,8 @@ This is the github presence of the Bioinformatics Working group of the [German C
 
   ### Fromer members
   
-  * Norbert Arnold (Department of Gynecology and Obstetrics and Institute of Clinical Molecular Biology, University Hospital of Schleswig-Holstein, Campus Kiel, Christian-Albrechts University Kiel, Kiel)
-  * Michael Forster (Department of Gynecology and Obstetrics, Institute of Clinical Chemistry Institute of Clinical Molecular Biology, University Hospital Schleswig-Holstein, Campus Kiel, Kiel)
+* Norbert Arnold (Department of Gynecology and Obstetrics and Institute of Clinical Molecular Biology, University Hospital of Schleswig-Holstein, Campus Kiel, Christian-Albrechts University Kiel, Kiel)
+* Michael Forster (Department of Gynecology and Obstetrics, Institute of Clinical Chemistry Institute of Clinical Molecular Biology, University Hospital Schleswig-Holstein, Campus Kiel, Kiel)
 * Ellen Honisch (Department of Gynaecology and Obstetrics, University Hospital Düsseldorf, Heinrich-Heine University Düsseldorf, Düsseldorf)
 * Zarah Kowalzyk (Institute for Clinical Genetics, University Hospital Carl Gustav Carus at TU Dresden, Dresden)
 * Melanie Lindner (Department of Medical Genetics, Centre of Medical Genetics, University and University Hospital Münster, Münster, Germany)
